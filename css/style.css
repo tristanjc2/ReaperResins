@@ -21,7 +21,6 @@
     text-transform:capitalize;
     transition:all .2s linear;
     transition:width none;
-    overflow-x:hidden;
 }
 
 html {
